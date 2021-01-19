@@ -68,3 +68,5 @@ let BreadthFirstSearch = (tree, rootNode, searchValue) => {
     }
 	console.log("Sorry, no such node found :(");	
 }
+
+BreadthFirstSearch(rootNode, "Crosswind Landings")
